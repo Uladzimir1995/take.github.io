@@ -1,0 +1,900 @@
+#main_width {
+  width: 1300px;
+  height: auto;
+  padding: 0px;
+  margin: 0px auto;
+  box-shadow: 0px 0px 10px grey;
+}
+
+#top_img {
+  text-align: left;
+  width: 1300px;
+  height:650px;
+}
+
+#first_photo {
+  width: 1300px;
+  height:650px;
+  margin: 0px;
+  padding: 0px;
+  background-size: cover;
+}
+
+#head_text {
+  width: 300px;
+  margin-top: -300px;
+  margin-left: 250px;
+  font-size: 10px;
+  font-family: "MyriadPro", Regular;
+  color: white;
+
+}
+
+#head_text_1 {
+  margin-top: -350px;
+  margin-left: 0px;
+  font-size: 38px;
+  font-family: "MyriadPro", Regular;
+  color: white;
+}
+
+#head_text_2 {
+  font-size: 8px;
+  font-family: "MyriadPro", Regular;
+  color: white;
+  margin-left: 10px;
+  padding-bottom: -20px;
+  height: 20px;
+  width: 120px;
+  transform: rotate(-90deg);
+}
+
+#middle_text {
+  width: 1300px;
+  height: 325px;
+
+
+}
+
+#left_colomn {
+  margin-left: 190px;
+  margin-top: 10px;
+  width: 450px;
+  height: 290px;
+
+  position: relative;
+  margin-top: 40px;
+
+
+  color:#959595;
+  font-size: 14px;
+  font-family: "MyriadPro", Regular;
+}
+
+#blue_main_text {
+  font-size: 38px;
+  font-family: "MyriadPro", Regular;
+  color: #222626;
+
+  position: relative;
+  margin-top: 30px;
+}
+
+
+#right_colomn_up {
+  margin-left: 650px;
+  margin-top: -730px;
+  width: 550px;
+  height: 600px;
+
+}
+
+#second_photo {
+  width: 550px;
+  height: 700px;
+  margin: 0px;
+  padding: 0px;
+  background-size: cover;
+  position: absolute;
+  margin-top: -80px;
+  /* margin-right: 99px; */
+  margin-left: -40px;
+}
+
+#right_colomn_down {
+  margin-left: 650px;
+  margin-top: -30px;
+  width: 550px;
+  height: 170px;
+  position: relative;
+
+
+  color:#959595;
+  font-size: 14px;
+  font-family: "MyriadPro", Regular;
+}
+
+#many_pics_1 {
+  width: 1300px;
+  height: 175px;
+
+}
+
+#st1 {
+  width: 260px;
+  height: 175px;
+  background-color: #f5989d;
+  position:relative;
+}
+
+#st2 {
+  width: 260px;
+  height: 175px;
+  background-color: #615f7d;
+  margin-left: 260px;
+  margin-top: -175px;
+  position: relative;
+}
+
+#st3 {
+  width: 260px;
+  height: 175px;
+  background-color: #615f7d;
+  margin-left: 520px;
+  margin-top: -175px;
+  position: relative;
+}
+
+#thirt_photo {
+  width: 260px;
+  height:175px;
+  margin: 0px;
+  padding: 0px;
+  background-size: cover;
+  position: relative;
+}
+
+#st4 {
+  width: 520px;
+  height: 175px;
+  background-color: #bd8cbf;
+  margin-left: 780px;
+  margin-top: -175px;
+  position: relative;
+}
+
+#many_pics_2 {
+  width: 1300px;
+  height: 175px;
+  background-color: purple;
+
+}
+
+#st5 {
+  width: 520px;
+  height: 175px;
+  position: relative;
+  }
+
+#fourth_photo {
+  width: 520px;
+  height:175px;
+  margin: 0px;
+  padding: 0px;
+  background-size: cover;
+  position: relative;
+}
+
+#st6 {
+  width: 260px;
+  height: 175px;
+  background-color: #82ca9c;
+  margin-left: 520px;
+  margin-top: -175px;
+  position: relative;
+}
+
+#st7 {
+  width: 520px;
+  height: 175px;
+  margin-left: 780px;
+  margin-top: -175px;
+  position: relative;
+}
+
+  #fiveth_photo {
+    width: 520px;
+    height:175px;
+    margin: 0px;
+    padding: 0px;
+    position: relative;
+
+  }
+
+.title_text {
+  color:white;
+  font-size: 24px;
+  font-family: "MyriadPro", Regular;
+    margin-left: 45px;
+    margin-bottom: 10px;
+    margin-top: 20px;
+    position: absolute;
+    z-index: 1;
+}
+
+.title_text_2 {
+  color:white;
+  font-size: 24px;
+  font-family: "MyriadPro", Regular;
+    margin-left: 45px;
+    margin-bottom: 10px;
+    margin-top: 20px;
+    position: relative;
+}
+
+.under_text {
+  color:white;
+  font-size: 13px;
+  font-family: "MyriadPro", Regular;
+  width: 220px;
+  margin-left: 15px;
+  position: absolute;
+  margin-top: 60px;
+  z-index: 1;
+}
+
+.under_text_link {
+  color:white;
+  font-size: 14px;
+  font-family: "MyriadPro", Regular;
+  width: 220px;
+  margin-left: 35px;
+  position: absolute;
+  margin-top: 140px;
+  z-index: 1;
+}
+
+#middle_text_2 {
+    width: 1300px;
+    height: 350px;
+
+}
+
+
+
+#head_text_2_1 {
+  font-size: 8px;
+  font-family: "MyriadPro", Regular;
+  color: #222626;
+  margin-left: 0px;
+  padding-bottom: -20px;
+  height: 20px;
+  width: 120px;
+  transform: rotate(-90deg);
+  position: absolute;
+  margin-top: 110px;
+}
+
+  #title_name {
+    position: absolute;
+    font-size: 32px;
+    font-family: "MyriadPro", Regular;
+    color: #222626;
+    margin-left: 220px;
+    margin-top: 50px;
+
+  }
+
+#on1 {
+  width: 230px;
+    height: 200px;
+
+    position: absolute;
+    margin-left: 220px;
+    margin-top: 100px;
+
+    color: #959595;
+
+}
+
+#on2 {
+  width: 230px;
+    height: 200px;
+    position: absolute;
+
+    margin-left: 460px;
+    margin-top: 100px;
+    color: #959595;}
+
+#on3 {
+  width: 230px;
+    height: 200px;
+
+    position: absolute;
+    margin-left: 700px;
+    margin-top: 100px;
+    color: #959595;
+}
+
+#on4 {
+  width: 230px;
+    height: 200px;
+
+    position: absolute;
+    margin-left: 940px;
+    margin-top: 100px;
+    color: #959595;
+}
+
+.title_name_2 {
+color: #67676d;
+font-family: "MyriadPro", Regular;
+font-size:20px;
+}
+
+#main_blue_car {
+  width: 1300px;
+  height:650px;
+
+}
+
+#blue_car_photo {
+  width: 1300px;
+  height:630px;
+  margin: 0px;
+  padding: 0px;
+  background-size: cover;
+  position: relative;
+}
+
+#title_for_car {
+  width: 350px;
+    height: 150px;
+    background-color: #ffff0000;
+    color: white;
+    position: absolute;
+    margin-top: -330px;
+    margin-left: 200px;
+    font-size: 46px;
+    z-index: 1;
+
+}
+
+#text_for_car {
+  width: 350px;
+  height: 150px;
+  background-color: #ffff0000;
+  color: white;
+  position: absolute;
+  margin-top: -230px;
+  margin-left: 200px;
+  font-size: 16px;
+  z-index: 1;
+
+}
+
+#shadow_text {
+  width: 1300px;
+  height:320px;
+  background-color: #ededef;
+  position: relative;
+  margin-top: -20px;
+}
+
+#grey_text_1 {
+  width: 330px;
+    height: 200px;
+    position: absolute;
+    margin-left: 300px;
+    margin-top: 60px;
+}
+
+#grey_text_2 {
+    width: 330px;
+    height: 200px;
+    background-color: white;
+    position: absolute;
+    margin-left: 650px;
+    margin-top: 60px;
+    box-shadow: 0px 0px 20px 2px grey;
+  }
+
+.litle_pic {
+      width: 50px;
+      height: 15px;
+      background-color: #80008000;
+      position: absolute;
+      margin-left: 0px;
+      margin-top: 20px;
+}
+
+.litle_photo {
+  width: 50px;
+  height:15px;
+  margin: 0px;
+  padding: 0px;
+}
+
+.Text_purple {
+  color: #2e3b4e;
+  font-family: "MyriadPro", Regular;
+  position: absolute;
+    font-size: 23px;
+    margin-top: 50px;
+}
+
+.contain_text {
+color: #8297a7;
+font-size: 12px;
+    width: 270px;
+    position: absolute;
+    margin-top: 80px;
+}
+
+.payment {
+  width: 70px;
+  height: 30px;
+  position: absolute;
+margin-top: 140px;
+margin-left: 10px;
+}
+
+.litle_photo_2 {
+  width: 70px;
+  height:30px;
+  margin: 0px;
+  padding: 0px;
+}
+
+.litle_logos {
+  width: 50px;
+    height: 22px;
+    position: absolute;
+    margin-top: 170px;
+    margin-left: 11px;
+}
+
+.litle_logo_2 {
+  width: 50px;
+  height:22px;
+  margin: 0px;
+  padding: 0px;
+}
+
+#special {
+  width: 330px;
+  height: 200px;
+  position: absolute;
+  margin-left: 30px;
+}
+
+#mr_black_footer {
+  width: 1300px;
+  height:370px;
+  background-color: #192431;
+  position: relative;
+}
+
+#text_on_black_left {
+    margin-left: 260px;
+    margin-top: 50px;
+    position: absolute;
+    width: 400px;
+    height: 250px;
+
+}
+
+#st1_text_black {
+    width: 400px;
+    height: 100px;
+
+
+    color: white;
+    font-family: "MyriadPro", Regular;
+    font-size: 13px;
+}
+
+#little_blue1 {
+  width: 120px;
+height: 140px;
+
+position: absolute;
+margin-left: 10px;
+margin-top: 10px;
+
+color: white;
+font-family: "MyriadPro", Regular;
+font-size: 12px;
+}
+
+#little_blue2 {
+  width: 120px;
+height: 140px;
+
+position: absolute;
+margin-left: 140px;
+margin-top: 10px;
+
+color: white;
+font-family: "MyriadPro", Regular;
+font-size: 12px;
+}
+
+#little_blue3 {
+  width: 120px;
+height: 140px;
+
+position: absolute;
+margin-left: 270px;
+margin-top: 10px;
+
+color: white;
+font-family: "MyriadPro", Regular;
+font-size: 12px;
+}
+
+
+
+#text_ob_black_right {
+    margin-left: 690px;
+    margin-top: 50px;
+    position: absolute;
+    width: 350px;
+    height: 250px;
+
+}
+
+#email_up {
+font-size: 20px;
+color: white;
+}
+
+#email1 {
+  width: 280px;
+height: 35px;
+position: absolute;
+margin-top: 10px;
+}
+
+#mail_bottom {
+    width: 60px;
+    height: 40px;
+
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 280px;
+}
+
+#mail_bottom_1 {
+  width: 60px;
+  height:41px;
+  margin: 0px;
+  padding: 0px;
+  background-size: cover;
+}
+
+#text_under_email {
+  width: 300px;
+height: 30px;
+
+
+color: #57697f;
+font-family: "MyriadPro", Regular;
+font-size: 12px;
+
+position: absolute;
+margin-top: 55px;
+}
+
+@media screen and (max-width: 430px) {
+
+    #head_text_1 {
+      font-size: 100px;
+      position: absolute;
+      margin-top: -180px;
+    }
+
+    #head_text {
+      font-size: 30px;
+      width: 400px;
+    }
+
+    #middle_text {
+      display: block;
+      height: 1500px;
+    }
+
+    #second_photo {
+      position: absolute;
+      margin-top: -190px;
+    }
+
+    #blue_main_text {
+      font-size: 80px;
+    width: 700px;
+    margin-top: 100px;
+    }
+
+    #left_colomn {
+      width: 900px;
+      height: 400px;
+      font-size: 40px;
+    }
+
+    #right_colomn_down {
+      width: 900px;
+    height: 400px;
+    font-size: 40px;
+    margin-left: 190px;
+    margin-top: 700px;
+    }
+
+                            #many_pics_1 {
+                              height: 2200px;
+                              background-color: white;
+                            }
+
+    #st1 {
+      width: 1000px;
+      height: 500px;
+      margin-left: 150px;
+    }
+
+    .title_text {
+      font-size: 90px;
+      margin-left: 200px;
+    }
+
+    .under_text {
+      font-size: 50px;
+      width: 900px;
+      margin-top: 160px;
+    }
+
+    .under_text_link {
+      font-size: 50px;
+    width: 1000px;
+    margin-top: 400px;
+    margin-left: 100px;
+    }
+
+    #st2 {
+      width: 1000px;
+    height: 500px;
+    margin-left: 150px;
+    margin-top: -1670px;
+    position: absolute;
+    }
+
+    #st3 {
+      width: 1000px;
+      height: 500px;
+      margin-left: 150px;
+      margin-top: -1140px;
+      position: absolute;
+    }
+
+    #thirt_photo {
+      width: 1000px;
+      height: 500px;
+
+      position: absolute;
+      background-size: cover;
+    }
+
+    #st4 {
+      width: 1000px;
+      height: 500px;
+      margin-left: 150px;
+      margin-top: -610px;
+      position: absolute;
+    }
+
+                                      #many_pics_2 {
+                                        height: 1600px;
+                                        background-color: white;
+                                      }
+
+#st5 {
+  width: 1000px;
+  height: 500px;
+  margin-left: 150px;
+    }
+
+ #fourth_photo {
+   width: 1000px;
+   height: 500px;
+
+   position: absolute;
+   background-size: cover;
+ }
+
+ #st6 {
+
+   width: 1000px;
+   height: 500px;
+   position: absolute;
+   margin-left: 150px;
+   margin-top: 30px;
+ }
+
+ #st7 {
+
+   width: 1000px;
+   height: 500px;
+   position: absolute;
+   margin-left: 150px;
+   margin-top: 560px;
+ }
+
+ #fiveth_photo {
+   width: 1000px;
+   height: 500px;
+
+   position: absolute;
+   background-size: cover;
+ }
+
+                                          #middle_text_2 {
+                                            background-color: white;
+                                            height: 1800px;
+                                          }
+
+#title_name {
+  font-size: 92px;
+  width: 1000px;
+}
+
+.title_name_2 {
+  font-size: 60px;
+margin-top: 90px;
+position: absolute;
+margin-top: -0px;
+}
+
+#on1 {
+  width: 800px;
+  height: 200px;
+  font-size: 40px;
+  position: absolute;
+  margin-top: 200px;
+}
+
+#on2 {
+  width: 800px;
+    height: 200px;
+    font-size: 40px;
+    position: absolute;
+    margin-top: 600px;
+    margin-left: 230px;
+}
+
+#on3 {
+  width: 800px;
+    height: 200px;
+    font-size: 40px;
+    position: absolute;
+    margin-top: 1000px;
+    margin-left: 230px;
+}
+
+#on4 {
+  width: 800px;
+    height: 200px;
+    font-size: 40px;
+    position: absolute;
+    margin-top: 1400px;
+    margin-left: 230px;
+  }
+
+  #title_for_car {
+    font-size: 100px;
+  z-index: 1;
+  width: 500px;
+  position: absolute;
+  margin-top: -400px;
+  margin-left: 30px;
+
+  }
+
+  #text_for_car {
+    font-size: 36px;
+    z-index: 1;
+    width: 740px;
+    position: absolute;
+    margin-left: 530px;
+    margin-top: -350px;
+  }
+
+
+                                                #shadow_text {
+                                                  height:950px;
+
+                                                }
+
+  #grey_text_1 {
+
+    position: absolute;
+    width: 700px;
+    height: 400px;
+  }
+
+  #grey_text_2 {
+    position: absolute;
+    width: 700px;
+    height: 400px;
+    margin-left: 300px;
+    margin-top: 500px;
+    }
+
+
+
+    .litle_photo {
+      margin: 0px;
+    padding: 0px;
+    background-size: cover;
+    width: 100px;
+    height: 30px;
+    }
+
+    .Text_purple {
+      font-size: 50px;
+      width: 300px;
+      margin-top: 65px;
+    }
+
+    .contain_text {
+      font-size: 30px;
+      width: 580px;
+      margin-top: 130px;
+    }
+
+    .litle_photo_2 {
+      margin: 0px;
+    padding: 0px;
+    background-size: cover;
+    width: 150px;
+    height: 50px;
+    margin-bottom: -190px;
+    }
+
+    .litle_logo_2 {
+      margin: 0px;
+padding: 0px;
+background-size: cover;
+width: 100px;
+height: 50px;
+margin-left: 200px;
+margin-top: 120px;
+    }
+
+                                              #mr_black_footer {
+                                                height:490px;
+
+                                                }
+
+
+#text_on_black_left {
+  width: 400px;
+  height: 250px;
+  position: absolute;
+  margin-top: 200px;
+  margin-left: 450px;
+
+}
+#text_ob_black_right {
+  width: 350px;
+height: 250px;
+position: absolute;
+margin-left: 450px;
+margin-top: 70px;
+}
+
+
+
+
+
+
+
+
+}
